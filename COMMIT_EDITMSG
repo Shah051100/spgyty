@@ -1,0 +1,7 @@
+Solve the website 404 error and correctly deploy site to GitHub Pages
+
+Adjusts build process and deployment instructions to fix GitHub Pages 404 error by outputting to /docs, updating workflow, and providing updated instructions in GITHUB-PAGES-FIX.md.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 89502d7c-c8d6-4aeb-827d-44b8df5c2b93
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/435dce35-21b3-445b-a50c-67444c53d28e/07d19e27-efa2-4755-8309-a557c184d302.jpg
