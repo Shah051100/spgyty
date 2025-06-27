@@ -1,0 +1,228 @@
+Build an interactive, next-gen personal portfolio website for Peerzada Saadat, a Food Technologist and Researcher from Kashmir, India.
+
+Overall Theme & Visual Style
+
+Futuristic biotech/cyberpunk lab design inspired by holographic UIs, sci-fi control panels, and advanced food-science labs
+
+Dark-mode base (#121212) with neon accents (lime green #39FF14, cyan #00FFFF, orange #FFA500)
+
+Glassmorphism elements with CSS backdrop-filter for translucent panels
+
+3D floating or parallax backgrounds (using Three.js or Vanta.js) that feature molecular chains, food structures (walnuts, almonds, honey droplets) floating in space
+
+Futuristic typography like Orbitron for titles and Roboto Mono or Exo for body text
+
+Subtle animated particle/molecule effects for constant motion
+
+VR toggle option with WebXR for a lab tour feel
+
+Responsive design for mobile, tablet, desktop
+
+Accessibility: high contrast, readable font sizes, semantic HTML
+
+Sound Design
+
+Web Audio API or AudioJS to add:
+
+subtle lab ambient hum
+
+molecule animation chime sounds
+
+optional nature sounds (like a breeze in walnut groves)
+
+Audio toggle on/off
+
+Main Sections
+
+1️⃣ Hero
+
+Peerzada Saadat’s name in a holographic neon style
+
+3D loop animation of Kashmiri dry fruits + ascorbic acid / honey preservative elements floating around
+
+Call-to-action buttons:
+
+[Connect]
+
+[Download CV] (links to saadat CV.pdf)
+
+[Explore Lab]
+
+Animated social icons (LinkedIn, Twitter) with neon hover effects
+
+Interactive background: Three.js molecule chains with parallax
+
+2️⃣ About
+
+Styled as a digital lab dossier or profile card
+
+Quick intro:
+
+B.Tech Food Technology (Islamic University of Science & Technology, Kashmir, 2020–2024)
+
+Top 10% of class, Merit Scholarship recipient
+
+Member of American Society for Nutrition
+
+Certifications:
+
+Millet Ideation Hackathon (ICMANES)
+
+Speech-Language Specialist
+
+KIMO.AI Tech Competition (1st Prize)
+
+Timeline of education from middle school (Saint Lukes Convent), high school (Govt Boys’ Model Higher Secondary Brakpora), to IUST
+
+Hover-animated badges for each degree or award
+
+3️⃣ Research Lab (Projects)
+
+Interactive, 3D-hover project cards with layered effects
+
+Featured project:
+
+Shelf Life Extension of Kashmiri Dry Fruits Using Natural Preservatives
+
+Description: research on using ascorbic acid, honey, and other natural methods to extend shelf life of Kashmiri walnuts, almonds, and apricots
+
+Hover animation shows antioxidant decay chart or freshness scale
+
+“View Publication” button linking to https://doi.org/10.1016/j.tifs.2024.104517
+
+Additional cards for:
+
+Incorporation of Fish and Fishery Waste into Food Formulations
+
+Novel spray drying and ohmic heating research
+
+Hackathons and conference projects (e.g., ICMANES millets project)
+
+Each card with an animated molecule or lab flask hover
+
+4️⃣ Experience
+
+Timeline or vertical floating panels:
+
+Finecure Pharmaceuticals Ltd. (Brand Representative, May 2024–Present)
+
+representing food/nutrition products
+
+trade shows & academic events
+
+Verka Dairy (Trainee, Jan–Feb 2023)
+
+quality control, dairy processing
+
+Alpine Agro Fresh Pvt. Ltd. (Intern, May–Oct 2022)
+
+fresh produce QC, packaging improvement
+
+Include logos, neon hover transitions, soft 3D lift on hover
+
+5️⃣ Skills
+
+Neon circular progress charts for skills:
+
+Food Technology
+
+Nutrition Science
+
+Laboratory Skills (spectrophotometer, chromatography, spray drying, PEF, Ohmic heating)
+
+Research methodologies
+
+Programming (Python, C, SQL)
+
+Microsoft Office, SPSS, MySQL
+
+Interactive molecule diagram with nodes connected like a chemistry structure
+
+6️⃣ Blog/Publications
+
+Futuristic publication list with downloadable whitepapers and embedded PDF viewers
+
+Event posts about:
+
+Bakery workshop (Shalimar Bakery, Creambell, Joseph Lawrence)
+
+International Millet Conference (ICMANES / NIFTEM)
+
+AI voice-read summaries with Web Speech API (optional)
+
+Floating holographic cards for each article
+
+7️⃣ Contact
+
+Holographic neon-styled contact form with Name / Email / Message
+
+Animated “Send” button with subtle glitch flicker
+
+Google Map embed of Kashmir with a particle-animated bouncing marker
+
+Social handles with hover glow (LinkedIn, Twitter @Shah_Saadat05)
+
+Direct email: shahsaadat101@gmail.com
+
+Phone: +91 9149637676
+
+8️⃣ Footer
+
+Futuristic lab signature: “Preserving nature’s bounty through science”
+
+Dynamic year with JavaScript
+
+Neon social icons
+
+Repeated contact links
+
+Technical Stack
+
+HTML5 semantic
+
+SCSS or TailwindCSS for styling
+
+JavaScript ES6 modules
+
+Three.js for 3D animations
+
+GSAP or Anime.js for smooth transitions
+
+Web Audio API or AudioJS for lab sounds
+
+React (optional, for component structure)
+
+WebXR API for optional VR mode
+
+Google Maps JS API for the animated map marker
+
+JSON-LD structured data for SEO
+
+Lottie animations for subtle food–preservation infographics
+
+Deliverables
+
+index.html, style.scss or tailwind.config.js, app.js
+
+Modular React components if you prefer React
+
+Assets (3D dried fruit models, molecular chains, icons)
+
+Audio clips (lab hum, UI clicks)
+
+Responsive, accessible, SEO–friendly, best–practices code
+
+Hosted on Replit, tested on all screen sizes
+
+Experience hooks (LinkedIn references):
+
+3,000+ followers, active food-tech networking
+
+event collaborations
+
+strong student leadership and team management
+
+passion for sustainability and future food innovations
+
+Overall
+This portfolio should feel like an immersive, interactive food-science lab from the future, with holographic elements, 3D molecules, subtle ambient lab sounds, and clear storytelling about Peerzada Saadat’s journey, projects, and mission. It must be clean, scalable, reusable, and professionally presentable to global recruiters, academics, and industrial R&D stakeholders.
